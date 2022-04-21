@@ -6,7 +6,7 @@ module.exports = {
       summary: `Přemýšlím, programuji a píšu o tom.`,
     },
     hyperlinks: {
-        personal: `https://svachmic.cz`,
+        personal: `https://blog.svachmic.cz`,
         github: `https://github.com/svachmic`,
         stackoverflow: `https://stackoverflow.com/users/1196908/michal`,
         email: `mailto:kontakt@svachmic.cz`
